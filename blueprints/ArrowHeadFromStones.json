@@ -1,17 +1,17 @@
 {
     "Name": "Askedal_ArrowHeadsFromStones",
-    "RequiredGear": [{"Item":"GEAR_Stone","Count":3}],
+    "RequiredGear": [{"Item":"GEAR_Stone","Count":1}],
     "KeroseneLitersRequired": 0,
-    "GunpowderKGRequired": 0,
+    "GunpowderRequired": 0,
     "RequiredTool": "GEAR_SharpeningStone",
-    "OptionalTools": ["",""],
+    "OptionalTools": [],
     "RequiredCraftingLocation": "Workbench",
     "RequiresLitFire": false,
     "RequiresLight": true,
     "CraftedResult": "GEAR_ArrowHead",
     "CraftedResultCount": 1,
-    "DurationMinutes": 60,
-    "CraftingAudio": "PLAY_CraftingGeneric",
-    "AppliedSkill" : "ToolRepair",
-    "ImprovedSkill" : "ToolRepair"
+    "DurationMinutes": 120,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
 }
